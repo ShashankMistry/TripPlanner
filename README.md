@@ -13,6 +13,11 @@ Basic IOS application to know the basics on IOS development
 ## Screenshots
 
 <img src="Screenshots/1.png" height="25%" alt="App Image" width="25%"/>
+<img src="Screenshots/2.png" height="25%" alt="App Image" width="25%"/>
+<img src="Screenshots/3.png" height="25%" alt="App Image" width="25%"/>
+<img src="Screenshots/4.png" height="25%" alt="App Image" width="25%"/>
+<img src="Screenshots/5.png" height="25%" alt="App Image" width="25%"/>
+<img src="Screenshots/6.png" height="25%" alt="App Image" width="25%"/>
 
 
 
