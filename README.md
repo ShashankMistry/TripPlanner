@@ -12,7 +12,7 @@ Basic IOS application to know the basics on IOS development
 
 ## Screenshots
 
-<img src="screenshots/1.png" height="25%" width="25%"/>
+<img src="Screenshots/1.png" height="25%" alt="App Image" width="25%"/>
 
 
 
