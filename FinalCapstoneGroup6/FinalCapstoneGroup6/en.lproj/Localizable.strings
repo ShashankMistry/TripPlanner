@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  FinalCapstoneGroup6
+
+  Created by user213797 on 12/10/22.
+  
+*/
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"warning" = "Are you sure you want to delete this item?";
+"location" = "Location: ";
+"num" = "Number Of People: ";
+"note" = "Note: ";
+"error_warning" = "location was not selected on map while adding trip!";
+"open_browser" = "Open in browser";
+"options" = "Options";
+"ent_all" = "Please enter all fields!!";
+"vc_spot" = "Vacation Spot";
+"std" = "standard";
+"stl" = "satellite";
+"hyb" = "hybrid";
+"map_style" = "Map Looks";

@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "02N-9l-Yto"; */
+"02N-9l-Yto.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Images related to your trip location / Hold image to get menu options"; ObjectID = "EQs-jS-NcB"; */
+"EQs-jS-NcB.text" = "मेनू विकल्प प्राप्त करने के लिए अपने यात्रा स्थान से संबंधित छवियां / छवि को होल्ड करें";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "HOO-ok-9yr"; */
+"HOO-ok-9yr.title" = "वस्तु";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "LHc-ki-lXh"; */
+"LHc-ki-lXh.text" = "स्थान";
+
+/* Class = "UIButton"; normalTitle = "Open location in maps"; ObjectID = "NB1-WW-yQD"; */
+"NB1-WW-yQD.normalTitle" = "मानचित्रों में खुला स्थान";
+
+/* Class = "UINavigationItem"; title = "Trip Advisor"; ObjectID = "NXe-fk-L83"; */
+"NXe-fk-L83.title" = "यात्रा सलाहकार";
+
+/* Class = "UILabel"; text = "Note: "; ObjectID = "RP0-co-OI9"; */
+"RP0-co-OI9.text" = "टिप्पणी: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vb2-DQ-GGC"; */
+"Vb2-DQ-GGC.text" = "लेबल";
+
+/* Class = "UINavigationItem"; title = "Vacation"; ObjectID = "Vfn-bG-9wh"; */
+"Vfn-bG-9wh.title" = "छुट्टी";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "XaN-43-p3G"; */
+"XaN-43-p3G.normalTitle" = "बचाना";
+
+/* Class = "UIViewController"; title = "AddVacation"; ObjectID = "eik-nP-vKE"; */
+"eik-nP-vKE.title" = "अवकाश जोड़ें";
+
+/* Class = "UILabel"; text = "Note"; ObjectID = "f7h-Fh-E9n"; */
+"f7h-Fh-E9n.text" = "टिप्पणी:";
+
+/* Class = "UILabel"; text = "Location: "; ObjectID = "ggy-MZ-lxU"; */
+"ggy-MZ-lxU.text" = "स्थान: ";
+
+/* Class = "UILabel"; text = "Click on map to put marker / long press to change style."; ObjectID = "llg-Fi-RJB"; */
+"llg-Fi-RJB.text" = "शैली बदलने के लिए मार्कर/लॉन्ग प्रेस लगाने के लिए मैप पर क्लिक करें।";
+
+/* Class = "UILabel"; text = "How many people:"; ObjectID = "mb3-TB-ccr"; */
+"mb3-TB-ccr.text" = "कितने लोग:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zx0-9u-tVT"; */
+"zx0-9u-tVT.text" = "लेबल";
